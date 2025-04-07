@@ -1,15 +1,11 @@
 # 💻 Pedro Gonçalves
 
-**🔭 Currently working on:**  
-I'm focused on developing my backend skills and applying them in personal projects.
+I'm developing my skills in data engineering and focusing in extraction data. This repo ['https://github.com/goncalvpedro'](url) is dedicated to exploring the vast amount of extracting data.
 
-**👯 Open to Collaborations:**  
 Looking forward to collaborating with designers and frontend developers to create better user experiences.
 
-**🌱 Currently Learning:**  
 Deepening my knowledge in **TypeScript** and **React** to enhance my full-stack capabilities.
 
-**⚡ Fun Fact:**  
 My coding journey began with **MatLab** and **C++** during engineering school. Now, I'm an enthusiast of software development, working with OOP languages like **Python** and **JavaScript**.
 
 ---
