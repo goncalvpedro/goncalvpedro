@@ -1,6 +1,6 @@
 # 💻 Pedro Gonçalves
 
-I'm developing my skills in data engineering and focusing in extraction data. This repo [Extract Data]('https://github.com/goncalvpedro/extract-data) is dedicated to exploring the vast amount of extracting data.
+I'm developing my skills in data engineering and focusing in extraction data. This repo [Extract Data](https://github.com/goncalvpedro/extract-data) is dedicated to exploring the vast amount of extracting data.
 
 Looking forward to collaborating with designers and frontend developers to create better user experiences.
 
